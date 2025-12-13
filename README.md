@@ -1,6 +1,8 @@
 # S&P 500 discord alerts bot
 Free Discord Bot for S&P 500 Insider Trading Alerts tracking real-time SEC Form 4 filings (insider buys/sells) for S&amp;P 500 companies using a configurable API (currently utilizing Finnhub). 
 
+Free • Open Source • SEC Form 4 Tracker
+
 
 Features:
 
