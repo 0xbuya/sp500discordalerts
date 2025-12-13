@@ -14,3 +14,7 @@ Optional Twitter posts
 
 Insider trading data is a powerful research signal — many studies show clustered buys/sells can precede market moves. Use responsibly for due diligence (not financial advice).
 
+The ethos behind the making of this python bot is to support data analysts and market researchers seeking to unveil the smoke and mirrors behind recent market movements. Simplifying this data for researchers making use of massive online platforms like Discord allows us to host communities that are informed. The choice to publish this code which organizes public data is aligned with the SEC's intentions of reporting market makers movements. I hope you found this helpful and feel free to make improvements.
+
+Do not forget to implement your own API keys respectively to see the configuration work.
+
