@@ -2,7 +2,7 @@
 
 Free • Open Source • SEC Form 4 Tracker
 
-A free Discord bot that pulls and organizes data from a configurable API (currently Finnhub) tracking SEC Form 4 reporting. SEC Form 4 pertains to insider trading, which can be used as a research source prior to making market decisions. Researching market impact, which also presents inferable movement.
+A free Discord bot that pulls and organizes data from two sources, a list of the S&P 500 index from Wikipedia (as it's a commonly updated sources), and a configurable API (currently Finnhub) tracking SEC Form 4 reporting. SEC Form 4 pertains to insider trading, which can be used as a research source prior to making market decisions. Researching market impact, which also presents inferable movement.
 
 ## Features
 - On-demand commands: `!insider [days]` for summaries (default 7 days).
