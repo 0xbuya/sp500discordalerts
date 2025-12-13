@@ -1,6 +1,6 @@
 # S&P 500 discord alerts bot
 
-Connect with me on X: @0xbuya | Instagram: YungTripoli | YouTube: https://youtube.com/yungtripoli
+Connect with me on X: @0xbuya | Instagram: YungTripoli | YouTube: https://youtube.com/@yungtripoli
 
 Free • Open Source • SEC Form 4 Tracker
 
