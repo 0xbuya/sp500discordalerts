@@ -2,6 +2,9 @@
 
 Free • Open Source • SEC Form 4 Tracker
 
+<img width="1400" height="1400" alt="sp500 trade tracker bot ss from discord" src="https://github.com/user-attachments/assets/35ed7ada-c9b9-44ba-a291-425d1e5e134b" />
+
+
 A free Discord bot that pulls and organizes data from two sources, a list of the S&P 500 index from Wikipedia (as it's a commonly updated sources), and a configurable API (currently Finnhub) tracking SEC Form 4 reporting. SEC Form 4 pertains to insider trading, which can be used as a research source prior to making market decisions. Researching market impact, which also presents inferable movement.
 
 ## Features
