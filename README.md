@@ -26,11 +26,17 @@ pip install discord.py requests beautifulsoup4 tweepy pandas python-dotenv
 Create `.env` file:
 
 FINNHUB_KEY=keyhere
+
 DISCORD_TOKEN=keyhere
+
 DISCORD_CHANNEL_ID=channelIDhere
+
 TWITTER_API_KEY=keyhere
+
 TWITTER_API_SECRET=keyhere
+
 TWITTER_ACCESS_TOKEN=keyhere
+
 TWITTER_ACCESS_SECRET=keyhere
 
 
