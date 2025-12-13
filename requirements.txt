@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+python-dotenv
+discord.py
+tweepy
+pandas
