@@ -1,4 +1,4 @@
-#UPDATE: Happy holidays & merry christmas! :)
+# UPDATE: Happy holidays & merry christmas! :)
 
 
 # S&P 500 discord alerts bot
